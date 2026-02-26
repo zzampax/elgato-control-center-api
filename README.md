@@ -6,9 +6,8 @@
 ![Language](https://img.shields.io/github/languages/top/zzampax/ecc-api.svg?style=for-the-badge&labelColor=black&logo=rust&logoColor=red&label=Rust)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-![WAM](https://img.shields.io/badge/APIs-RULE%20THE%20WORLD-CD3713?style=for-the-badge&labelColor=black)
 
-<img src="https://rust-book.cs.brown.edu/img/ferris/does_not_compile.svg" alt="ECC" height="300px">
+<img src="https://rustacean.net/assets/rustacean-flat-happy.png" alt="ECC" height="300px">
 </div>
 <br>
 
